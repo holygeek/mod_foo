@@ -1,0 +1,5 @@
+httpd*
+*.l?
+*.o
+*.slo
+.libs

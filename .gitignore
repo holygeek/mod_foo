@@ -3,3 +3,5 @@ httpd*
 *.o
 *.slo
 .libs
+apr-1.5.1.tar.gz
+apr-util-1.5.3.tar.gz
